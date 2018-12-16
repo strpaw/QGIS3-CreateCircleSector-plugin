@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/create_circ_sector" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
